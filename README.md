@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 July 2024 - To: 26 August 2026
+From: 10 July 2024 - To: 27 August 2026
 
-Total Time: 334 hrs 5 mins
+Total Time: 335 hrs 44 mins
 
-SQL           157 hrs 30 mins       >>>>>>>>>>>--------------   45.72 %
-Python        109 hrs 39 mins       >>>>>>>>-----------------   31.83 %
-Markdown      19 hrs 38 mins        >------------------------   05.70 %
-Other         10 hrs 24 mins        >------------------------   03.02 %
+SQL           157 hrs 32 mins       >>>>>>>>>>>--------------   45.50 %
+Python        110 hrs 39 mins       >>>>>>>>-----------------   31.96 %
+Markdown      20 hrs 12 mins        >------------------------   05.84 %
+Other         10 hrs 29 mins        >------------------------   03.03 %
 ```
 
 <!--END_SECTION:waka-->
